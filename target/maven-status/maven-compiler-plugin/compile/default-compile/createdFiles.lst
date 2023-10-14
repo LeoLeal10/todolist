@@ -1,0 +1,10 @@
+br\com\cefsa\todolist\errors\ExceptionHandlerController.class
+br\com\cefsa\todolist\filter\FilterTaskAuth.class
+br\com\cefsa\todolist\task\TaskModel.class
+br\com\cefsa\todolist\user\UserController.class
+br\com\cefsa\todolist\TodolistApplication.class
+br\com\cefsa\todolist\user\UserModel.class
+br\com\cefsa\todolist\task\ITaskRepository.class
+br\com\cefsa\todolist\task\TaskController.class
+br\com\cefsa\todolist\user\IUserRepository.class
+br\com\cefsa\todolist\utils\Utils.class
